@@ -21,7 +21,7 @@ main {
     background-color: #f6f8f9;
 }
 
-.pad1{
+.pad1 {
     padding-left: 3rem;
     padding-top: 1rem;
     padding-bottom: 0.5rem;
@@ -35,14 +35,96 @@ main {
     padding: 10px 20px;
     border-color: transparent;
     color: white;
-    
 }
 
-.butt2{
+.butt2 {
     background-color: white;
     border-radius: 10px;
     padding: 10px 30px;
-    border-color:#dfe2e5;
+    border-color: #dfe2e5;
     color: #dfe2e5;
+}
 
+.space1 {
+    padding-top: 0.2rem;
+    background-color: #f6f8f9;
+}
+
+.list {
+    padding-left: 3rem;
+    padding-top: 3rem;
+}
+
+h2 {
+    color: #444851;
+}
+
+.checkbox {
+    color: #b3e2d9;
+    padding-right: 1rem;
+}
+
+.rbox {
+    background-color: #47adf1;
+    border-radius: 11px;
+    padding: 5px 8px;
+    border-color: transparent;
+    color: white;
+}
+
+.spacing {
+    padding-bottom: 2rem;
+}
+
+.rbox2 {
+    background-color: #9c72e4;
+    border-radius: 11px;
+    padding: 5px 8px;
+    border-color: transparent;
+    color: white;
+}
+
+.xbox {
+    color: red;
+    padding-right: 1rem;
+}
+
+.rbox3 {
+    background-color: #64c0a9;
+    border-radius: 11px;
+    padding: 5px 9px;
+    border-color: transparent;
+    color: white;
+}
+
+.rbox4 {
+    background-color: #f29e33;
+    border-radius: 11px;
+    padding: 5px 9px;
+    border-color: transparent;
+    color: white;
+}
+
+.rbox5 {
+    background-color: #d863a0;
+    border-radius: 11px;
+    padding: 5px 9px;
+    border-color: transparent;
+    color: white;
+}
+
+.rbox6 {
+    background-color: #b0c926;
+    border-radius: 11px;
+    padding: 5px 9px;
+    border-color: transparent;
+    color: white;
+}
+
+.rbox7 {
+    background-color: #45abe9;
+    border-radius: 11px;
+    padding: 5px 9px;
+    border-color: transparent;
+    color: white;
 }
