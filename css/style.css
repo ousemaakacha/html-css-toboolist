@@ -1,13 +1,48 @@
-:root{
- 
-}
+:root {}
 
-header{
+header {
     background-color: white;
     font-size: 3rem;
     padding-left: 1rem;
 }
 
-body{
+body {
     background-color: #f6f8f9;
+}
+
+main {
+    background-color: white;
+    margin: auto;
+    width: 80%;
+}
+
+.space {
+    padding-top: 3rem;
+    background-color: #f6f8f9;
+}
+
+.pad1{
+    padding-left: 3rem;
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+}
+
+
+
+.butt1 {
+    background-color: #47adf1;
+    border-radius: 10px;
+    padding: 10px 20px;
+    border-color: transparent;
+    color: white;
+    
+}
+
+.butt2{
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px 30px;
+    border-color:#dfe2e5;
+    color: #dfe2e5;
+
 }
