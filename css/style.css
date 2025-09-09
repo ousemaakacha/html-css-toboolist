@@ -1,9 +1,12 @@
 :root {}
 
+
+
 header {
     background-color: white;
     font-size: 3rem;
     padding-left: 1rem;
+    padding-top: 0.5rem;
 
     strong {
         vertical-align: 5px;
@@ -12,6 +15,13 @@ header {
 
 body {
     background-color: #f6f8f9;
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
 }
 
 main {
