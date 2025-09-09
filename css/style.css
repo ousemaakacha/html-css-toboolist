@@ -147,3 +147,8 @@ footer {
     padding-top: 1.5rem;
     background-color: #f6f8f9;
 }
+
+.textcol {
+    color: #404247;
+    font-size: 20px;
+}
