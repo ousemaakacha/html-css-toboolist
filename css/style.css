@@ -4,6 +4,10 @@ header {
     background-color: white;
     font-size: 3rem;
     padding-left: 1rem;
+
+    strong {
+        vertical-align: 5px;
+    }
 }
 
 body {
